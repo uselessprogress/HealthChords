@@ -1,0 +1,10 @@
+x,Overweight,Obese,Prediabetes,Diabetes,Borderline,Hyperlipidemia,Prehypertension,Hypertension,TobaccoUse
+Overweight,2042,0,261,59,494,122,711,78,180
+Obese,0,3032,622,202,704,223,1557,229,211
+Prediabetes,261,622,1018,0,245,90,493,86,65
+Diabetes,59,202,0,285,62,24,155,30,28
+Borderline,494,704,245,62,1596,0,678,92,117
+Hyperlipidemia,122,223,90,24,0,427,186,27,47
+Prehypertension,711,1557,493,155,678,186,2686,0,220
+Hypertension,78,229,86,30,92,27,0,338,31
+TobaccoUse,180,211,65,28,117,47,220,31,498
